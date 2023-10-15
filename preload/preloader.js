@@ -86,7 +86,7 @@ function UnityProgress(dom)
     _bg.style.visibility = "hidden";
     _bg.onclick = function() {
 	  var p = _get("portal");
-      window.open("http://aceviral.com/a/l/AGRWebGLPreloader?utm_source=brandedgames&utm_medium=webglangrygranrunrussia" + (p ? '&utm_url=' + p : ""));
+      window.open("https://sites.google.com/view/games-unblockedd/" + (p ? '&utm_url=' + p : ""));
     };
     _parent.appendChild(_bg);
 
