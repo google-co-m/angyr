@@ -1,9 +1,9 @@
 {
 "TOTAL_MEMORY": 536870912,
-"dataUrl": "WebGLTemp.data.unityweb",
-"asmCodeUrl": "WebGLTemp.asm.code.unityweb",
-"asmMemoryUrl": "WebGLTemp.asm.memory.unityweb",
-"asmFrameworkUrl": "WebGLTemp.asm.framework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/Build/WebGLTemp.data.unityweb",
+"asmCodeUrl": "https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/Build/WebGLTemp.asm.code.unityweb",
+"asmMemoryUrl": "https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/Build/WebGLTemp.asm.memory.unityweb",
+"asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/Build/WebGLTemp.asm.framework.unityweb",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#222C36"
 }
