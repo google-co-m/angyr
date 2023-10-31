@@ -123,7 +123,7 @@
     <section id="c-bar">
       <div id="flags">
         <img class="flag" src="https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/glbar/assets/uk.png" data-id="uk" />
-        <img class "flag" src="https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/glbar/assets/gr.png" data-id="gr" />
+        <img class="flag" src="https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/glbar/assets/gr.png" data-id="gr" />
         <img class="flag" src="https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/glbar/assets/us.png" data-id="us" />
         <img class="flag" src="https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/glbar/assets/fr.png" data-id="fr" />
         <img class="flag" src="https://cdn.jsdelivr.net/gh/google-co-m/angyr@main/glbar/assets/ch.png" data-id="ch" />
